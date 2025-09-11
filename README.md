@@ -9,5 +9,4 @@ python == 3.8.18
 torch == 1.10.0  
 torchvision == 0.11.0  
 
-## Acknowledgements
-We sincerely thank the reviewers for their constructive comments, which motivated us to make this code publicly available to the coastal remote sensing community.
+
