@@ -1,4 +1,4 @@
-#DA-MiTUNet: A Mix Transformer with Dual Attention embedding in Unet for Land-Sea Segmentation of Remote Sensing Images
+DA-MiTUNet: A Mix Transformer with Dual Attention embedding in Unet for Land-Sea Segmentation of Remote Sensing Images
 
 Introduction
 This repository provides the official implementation of DA-MiTUNet, a novel and efficient deep learning model designed for land-sea segmentation.
