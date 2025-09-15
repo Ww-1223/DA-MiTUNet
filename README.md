@@ -12,3 +12,10 @@ torchvision == 0.11.0
 
 ## Acknowledgements
 We sincerely thank the reviewers for their constructive comments, which motivated us to make this code publicly available to the coastal remote sensing community.
+
+## Attribution
+Portions of the MiT encoder are adapted from MMSegmentation (Apache-2.0).
+See `LICENSES/Apache-2.0.txt`. Upstream: https://github.com/open-mmlab/mmsegmentation
+We keep original headers and mark our modifications in file headers.
+
+
